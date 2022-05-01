@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html class="h-full bg-gray-50" lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>ChangAPP Web</title>
+</head>
+<style>
+    body {
+    background-image: url('/fondo5.jpg ');
+    }
+    </style> 
+<body>
+    <div class="container mx-auto">
+        
+        <center>
+        <h1 class="text-5xl text-gray-800"></h1>
+        <img src="/CHANGAPP.png" class="center scale-75 py-2 px-0"/>
+        <div class="mt-5 mb-5 border">
+            <p class="text-base bg-white">Plataforma que ofrece oportunidades laborales generando una conexion entre el empleado y el empleador</p>
+        </div>
+    
+        <a href=/login.html> 
+            <button type="button" class=" w-full text-white bg-gradient-to-br from-pink-500 to-orange-400 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-pink-200 dark:focus:ring-pink-800 font-medium rounded-lg text-7xl px-4 py-20 text-center mr-2 mb-2">CREAR</button></a>
+        <a href=/login.html> 
+            <button type="button" class="w-full text-white bg-gradient-to-br from-green-400 to-blue-600 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-green-200 dark:focus:ring-green-800 font-medium rounded-lg text-7xl px-4 py-20 text-center mr-2 mb-2">BUSCAR</button></a>
+        </center> 
+        <!--<button class=" w-full shadow-md bg-green-500 hover:bg-green-700 text-white font-bold py-20 px-4 rounded text-7xl">BUSCAR</button><br><br>
+    <!--  <button class=" w-full shadow-md bg-red-500 hover:bg-red-700 text-white font-bold py-20 px-5 rounded text-7xl">CREAR </button>
+    </div>
+        
+        <!-- rounded.full circulo -->
+</body> 
+</html>
